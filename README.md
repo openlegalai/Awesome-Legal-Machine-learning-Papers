@@ -24,3 +24,7 @@ There is a growing body of research at the intersection of Law and Natural Langu
 
 
 ## Papers
+
+- **LexGLUE: A Benchmark Dataset for Legal Language Understanding in English**
+  - Ilias Chalkidis, Abhik Jana, Dirk Hartung, Michael Bommarito, Ion Androutsopoulos, Daniel Katz, Nikolaos Aletras
+  - [[Paper]](https://aclanthology.org/2022.acl-long.297/)
