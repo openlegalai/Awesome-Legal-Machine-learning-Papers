@@ -1,3 +1,4 @@
+<div align="center">
 # Awesome Legal Machine learning Papers
 
 There is a growing body of research at the intersection of Law and Natural Language Processing. Legal Artificial Intelligence (LegalAI) is a specific subject to apply the artificial intelligence technology into legal tasks including legal judgement prediction, similar case matching, law case classification and legal entity recognition.
@@ -9,11 +10,11 @@ There is a growing body of research at the intersection of Law and Natural Langu
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
 <figure>
-  <div align="center">
+  
   <img width="750" src="./images/legalai.jpeg">
   <figcaption> Image Source :  https://tinyurl.com/bdfvrz4j </figcaption>
 </figure>
-
+</div>
 
 ##### Table of Contents
 
