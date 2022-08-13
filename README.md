@@ -11,7 +11,7 @@ There is a growing body of research at the intersection of Law and Natural Langu
 <figure>
   
   <img width="750" src="./images/legalai.jpeg">
-  <figcaption> Image Source :  https://tinyurl.com/bdfvrz4j </figcaption>
+  <figcaption> Source tinyurl.com/bdfvrz4j </figcaption>
 </figure>
 </div>
 
