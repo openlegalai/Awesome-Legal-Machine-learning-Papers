@@ -1,7 +1,7 @@
 <div align="center">
 <h2>Awesome Legal Machine learning Papers</h2>
 
-There is a growing body of research at the intersection of Law and Natural Language Processing. Legal Artificial Intelligence (LegalAI) is a specific subject to apply the artificial intelligence technology into legal tasks including legal judgement prediction, similar case matching, law case classification and legal entity recognition.
+There is a growing body of research at the intersection of Law and Natural Language Processing. Legal Artificial Intelligence (LegalAI) is a specific subject to apply the artificial intelligence technology into legal tasks including legal judgement prediction, similar case matching, law case classification and legal entity recognition. This repo contains a curated list of Machine learning, Deep Learning Papers/resources and recent advancements in Legal Domain.
 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
