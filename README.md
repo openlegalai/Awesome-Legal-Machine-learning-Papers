@@ -9,7 +9,7 @@ There is a growing body of research at the intersection of Law and Natural Langu
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
 <figure>
-  <img width="750" src="./images/legalai.jpeg">
+  <img width="750" src="./images/legalai.jpeg" alt="source https://tinyurl.com/bdfvrz4j">
 </figure>
 </div>
 
